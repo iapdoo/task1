@@ -1,0 +1,25 @@
+<?php
+
+return [
+    'partner'=>'Partner',
+    'partner_list'=>'Show All Partner',
+    'partner_add'=>' Add New Partner',
+    'partner_edit'=>' Edit Partner',
+    'image'=>'logo',
+    'name'=>' Name ',
+    'description'=>' Description',
+    'delete'=>'Delete',
+    'update'=>'Update',
+    'partner_info'=>'Partner Information',
+    'name_ar'=>'Name By Arabic',
+    'name_en'=>'Name By English ',
+    'description_en'=>'Description By Arabic ',
+    'description_ar'=>' Description By English ',
+    'requiredImage'=>' Image is required',
+    'imageMimes'=>'image Mimes must be : jpg,jpeg,png',
+    'nameAr'=>'Name Arabic is required',
+    'nameEn'=>'Name English is required',
+    'descriptionAr'=>'Description Arabic is required',
+    'descriptionEn'=>'Description English is required',
+    'yourpartner'=>'Enter Your Category',
+];
